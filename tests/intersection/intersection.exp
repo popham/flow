@@ -1,11 +1,11 @@
 
-assoc.js:14:3,7: call of method m
+assoc.js:15:3,7: call of method m
 Property not found in
 assoc.js:13:15,16: r1
 
-assoc.js:18:3,7: call of method m
+assoc.js:20:3,7: call of method m
 Property not found in
-assoc.js:17:32,33: r2
+assoc.js:18:32,33: r2
 
 test.js:5:39,42: intersection type
 This type is incompatible with
